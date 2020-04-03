@@ -9,7 +9,6 @@ namespace Memory
 {
     public partial class Form1 : Form
     {
-        private string version = "   v0.06";
         private Random random = new Random();
         private List<string> motivListe;
         private Dictionary<PictureBox, string> positionen;
